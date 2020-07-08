@@ -1,0 +1,6 @@
+chr21.fa filter=lfs diff=lfs merge=lfs -text
+Homo_sapiens.GRCh37.75.21.gtf filter=lfs diff=lfs merge=lfs -text
+subset_pbmc_1k_v3_S1_L001_R1_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
+subset_pbmc_1k_v3_S1_L001_R2_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
+subset_pbmc_1k_v3_S1_L002_R1_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
+subset_pbmc_1k_v3_S1_L002_R2_001.fastq.gz filter=lfs diff=lfs merge=lfs -text
